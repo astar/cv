@@ -1,0 +1,13 @@
+Jaroslav Vazny is a PhD student at Masaryk University. He obtained
+B.\,Sc.\ and M.\,Sc.\ degrees in astrophysics at the Faculty of
+Science, Masaryk University, Brno. He used to work as a senior
+developer and Database administrator in Infineon Technologies in
+Germany, USA and Malaysia. He has part-time job at Stellar Dept. of
+Astronomical Institute of the Academy of Sciences of the Czech
+Republic in Ond\v{r}ejov. Jaroslav had participated in many summer
+schools and conferences about virtual observatory, astronomical data
+mining and advanced astrostatistics and worked as CERN Summer Student
+on the next generation collider (CLIC). His research interests include
+machine learning, statistics, astrophysics and neuroscience.
+
+E-mail: jaroslav.vazny@gmail.com
